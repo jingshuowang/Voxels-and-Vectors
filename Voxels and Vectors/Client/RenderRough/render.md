@@ -1,1 +1,1 @@
-pretty complex. This thing also serves as an method library.
+pretty complex. This thing also serves as an method library. Also to note for raytracing we use meshless rendering since its all axis aligned + rotated which is just matrix stuff.
