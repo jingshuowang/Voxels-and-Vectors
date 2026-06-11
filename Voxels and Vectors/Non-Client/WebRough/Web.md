@@ -1,0 +1,1 @@
+This folder serves for another miniproject. But this folder only serves the server part of the miniproject.

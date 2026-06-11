@@ -14,4 +14,8 @@ GUI: Menus, developer interface
 No block size complications, its just the grid size.
 
 Side Notes: 
-Blocks data uses the bottom left down corenr as thier location(xyz).
+-Blocks data uses the bottom left down corenr as thier location(xyz).
+    -Java + rust for backend and maybe some python. c++ and c# for clientside. On web its 
+    - webgl frontend and some golden triangle(js, css, html) for gui/lightweight stuff.
+- Add more gui like atlas for stuff like terrain generation and visualizing the data and gui stuff. More graphs for the engine.
+-blah

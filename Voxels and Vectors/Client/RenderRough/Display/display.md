@@ -1,0 +1,1 @@
+this folder takes lthe methods from the other files in the render folder to combine it together.

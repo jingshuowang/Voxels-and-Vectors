@@ -1,0 +1,1 @@
+This folder takes functions from the other noncleint stuff and use it to get a result. it also takes in data from client and also seends out data too.
