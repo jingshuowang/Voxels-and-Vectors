@@ -1,0 +1,1 @@
+This folder acts sort of like a framework, and includes system for displaying and managing kinda like unity wire thing.
