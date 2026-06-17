@@ -1,1 +1,0 @@
-the world folder only contains thhe functiosn for generation and physics. connection handles interactions stoage and stuff between non client and client. so most of these folders practically holds a library or each folder with methods in them.
