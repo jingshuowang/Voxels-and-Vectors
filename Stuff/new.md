@@ -19,3 +19,5 @@ Side Notes:
     - webgl frontend and some golden triangle(js, css, html) for gui/lightweight stuff.
 - Add more gui like atlas for stuff like terrain generation and visualizing the data and gui stuff. More graphs for the engine.
 -blah
+
+Notice: When changing anything do not change the code part only namespaces and import issues.
